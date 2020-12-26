@@ -1,3 +1,5 @@
+const enforce = () => {
+}
 class Matrix {
 	constructor(height = 0, width = 0, data = null) {
 		this._onChangeListeners = [];
